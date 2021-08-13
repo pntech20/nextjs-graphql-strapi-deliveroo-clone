@@ -11,7 +11,7 @@
     "gql": "^1.1.2",
     "graphql": "^15.0.0",
     "graphql-tag": "^2.10.3",
-    "next": "^9.3.4",
+    "next": "^11.1.0",
     "next-apollo": "^3.1.10",
     "react": "^16.13.1",
     "react-apollo": "^3.1.4",
